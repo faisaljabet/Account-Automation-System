@@ -130,6 +130,7 @@
     }
     session::set("loginmgs",NULL);
 ?>
+old code
 <!DOCTYPE html>
 <html lang="en">
 <head>
